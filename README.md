@@ -21,9 +21,13 @@
 - ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)
 
 ## Contacts:
-- [Instagram](https://www.instagram.com/luisrampaso_ntn)
-- [Gmail](mailto:luishisse@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/luisrampaso/)
+<div> 
+<a href="https://www.instagram.com/luisrampaso_ntn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<a href = "mailto:luishisse@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/luisrampaso/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+</div>&nbsp;&nbsp;
+ 
 
 ---
 
