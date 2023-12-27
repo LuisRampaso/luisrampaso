@@ -1,4 +1,5 @@
 # Luis Rampaso - Web Developer
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisrampaso&layout=compact&langs_count=10&theme=dark&hide=Jupyter%20Notebook&exclude_repo=private-repo1,private-repo2&custom_title=Top%20Languages%20Used&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800&hide_title=true&show_icons=true&token=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)
 
 ### Main Stack:
 - ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
